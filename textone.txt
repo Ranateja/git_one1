@@ -1,3 +1,7 @@
 Hi Dev1,
 
 Welcome to git
+
+Hi Dev2,
+
+Welcome to git
