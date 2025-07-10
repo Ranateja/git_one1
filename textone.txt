@@ -5,3 +5,7 @@ Welcome to git
 Hi Dev2,
 
 Welcome to git
+
+Hi dev3,
+
+Welcome to git
